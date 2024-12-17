@@ -1,0 +1,195 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+/* header */
+
+#nav_box {
+    width: 1140px;
+    height: 72px;
+    padding: 12px 80px;
+    margin: 0 auto;
+    margin-bottom: 178px;
+}
+
+#logo_nextmove {
+    padding: 13.49px;
+    vertical-align: middle;
+}
+
+#nav_link {
+    font-size: 18px;
+    font-weight: 600;
+    display: inline-block;
+    width: 349px;
+    margin-left: 175px;
+    margin-right: 175px;
+}
+
+#about {
+    color: #ff5da3;
+    margin-right: 20px;
+}
+
+#offer {
+    margin-right: 20px;
+}
+
+#contact {
+    margin-right: 20px;
+}
+
+#helpp {
+    margin-right: 20px;
+}
+
+#pirst {
+    color: #fff;
+    border-radius: 8px;
+    padding: 8px 16px;
+    background-color: #00ac25;
+
+}
+
+/* main */
+
+#theacher_box {
+    width: 1, 320px;
+    margin-left: 284px;
+    margin-right: 320px;
+    margin-bottom: 706px;
+}
+
+#theacher_h {
+    font-size: 36px;
+    text-align: center;
+    margin-bottom: 24px;
+}
+
+#section {
+    color: #000;
+}
+
+#section_ss {
+    color: #ff5da3;
+}
+
+#theacher_p {
+    color: #000;
+    width: 100%;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 32px;
+    text-align: center;
+}
+
+h3 {
+    color: #000;
+    font-weight: 700;
+    font-size: 48px;
+    text-align: center;
+    margin-bottom: 24px;
+}
+
+#theacher_pp {
+    color: #6941c6;
+    margin: 0 auto;
+    width: 716px;
+    text-align: center;
+    line-height: 32px;
+    font-size: 24px;
+    font-weight: 400;
+    margin-bottom: 24px;
+}
+
+#button_two {
+    width: 185;
+    color: #fff;
+    padding: 16px 24px;
+    border-radius: 8%;
+    background-color: #00ac25;
+    margin-left: 355px;
+}
+
+/* footer */
+
+#footer_box {
+    background-color: #53389e;
+    width: 1, 920px;
+    height: 128px;
+    margin-top: 48px;
+}
+
+#footer_smoll {
+    margin-left: 290px;
+    margin-top: 48px;
+    display: inline-block;
+}
+
+#untitled {
+    width: 32px;
+    height: 32px;
+    border-radius: 8px;
+}
+
+#logo_box {
+    height: 32px;
+    display: inline-block;
+    margin-right: 100px;
+    vertical-align: middle;
+}
+
+#logo {
+    color: #fff;
+    width: 139px;
+    height: 32px;
+    display: inline-block;
+    margin-left: 10px;
+    vertical-align: middle;
+
+}
+
+#untitled_p {
+    color: #fff;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#linkebi {
+    margin-right: 192px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#overview {
+    color: #E9D7FE;
+    margin-right: 32px;
+}
+
+#features {
+    color: #E9D7FE;
+    margin-right: 32px;
+}
+
+#pricing {
+    color: #E9D7FE;
+    margin-right: 32px;
+}
+
+#careers {
+    color: #E9D7FE;
+    margin-right: 32px;
+}
+
+#help {
+    color: #E9D7FE;
+    margin-right: 32px;
+}
+
+#privacy {
+    color: #E9D7FE;
+    margin-right: 32px;
+}
